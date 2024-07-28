@@ -31,7 +31,7 @@ This project delves into several critical areas, including total employees by ge
 - <h5>Interactive Slicers:</h5> Added for gender, education, and department to enhance data exploration.
 
 # Dashboard
-<img src = "/HR_analytics_dashboard/Dashboard.JPG">
+<img src = "Dashboard.JPG">
 <br>
 
 By harnessing the power of data analytics, this project  empowers HR professionals with actionable insights, enabling them to optimize HR strategies, enhance employee retention, and support the overall growth and well-being of the organization.
